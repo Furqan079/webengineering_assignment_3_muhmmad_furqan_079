@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "E77KS5hxORd8RHe2XQ89ezo95JoKauqQfvZTSTXvSv8=",
+  "Source": "assignment",
+  "BasePath": "_content/assignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "assignment\\wwwroot",
+      "Source": "assignment",
+      "ContentRoot": "C:\\Users\\dell\\Desktop\\blazor projects\\assignment\\assignment\\wwwroot\\",
+      "BasePath": "_content/assignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dell\\Desktop\\blazor projects\\assignment\\assignment\\wwwroot\\css\\site.css",
+      "SourceId": "assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\Desktop\\blazor projects\\assignment\\assignment\\wwwroot\\",
+      "BasePath": "_content/assignment",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
